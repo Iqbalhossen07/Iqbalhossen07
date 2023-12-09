@@ -24,7 +24,7 @@ I'm a passionate and aspiring junior developer with a love for coding .
 * The rule of HR is that he can make payment only if he verifies an employee.
 * Only HR can view dashboard route private and employee list. No one else can see.
 * Again, only the admin can abandon someone, and can also fire, no one else can.
-<!-- <h2>Tech Stack</h2> -->
+
 
 
 
