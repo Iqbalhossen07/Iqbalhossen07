@@ -13,8 +13,8 @@ I'm a passionate and aspiring junior developer with a love for coding .
 
 <h1>Employee Management </h1>
 
-<h2>Live Links</h2>
-<p>https://employee-managment-91f8f.web.app/</p>
+<h4>Live Links :  <span >https://employee-managment-91f8f.web.app/<span></h4>
+
 
 <p>My Project Features</p>
 
@@ -27,7 +27,42 @@ I'm a passionate and aspiring junior developer with a love for coding .
 
 
 
+<h1>Hotel Bookings </h1>
+
+<h4>Live Links :  <span >https://hotel-booking-61cec.firebaseapp.com/<span></h4>
 
 
+<p>My Project Features</p>
+
+* First 6 rooms are shown dynamically in roms route .
+*  If someone clicks on any of the rooms. So he will show him the details of the room.
+* If a user booked a room then he can see his edited booking by going to My Booking Route.
+* If someone has booked a room then they can give a review, otherwise no one can give a review. But everyone can see the review.
+* My booking route is private. A user can view my booking route by logging in, otherwise they cannot view it. Again no one else can see a user's room booking. And if someone makes a room booking, then no one else can make a booking.
+* Again if a user cannot delete the booked room on the last day of booking. You can do it the day before.
+
+
+<h1>Electronics </h1>
+
+<h4>Live Links :  <span >https://assignment-10-6dc21.web.app/<span></h4>
+
+
+<p>My Project Features</p>
+
+
+<!-- First Step -->
+* This project has 6 different brands. Clicking on each of them will take you to their brand.
+
+<!-- First Second -->
+* Clicking on brand name button will show their details.
+
+<!-- First Third -->
+* This project has private routes. Can't go there without login.
+
+<!-- First Fourth -->
+* Anyone can add products if they want. And can edit and delete.
+
+<!-- First Five -->
+* If someone adds a product then it will be added to my cart. And you can visit there.
 
 
