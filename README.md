@@ -11,57 +11,37 @@ I'm a passionate and aspiring junior developer with a love for coding .
 
 <h2>Projects</h2>
 
-<h1>Employee Management </h1>
+<h1> Mountenna Education </h1>
 
-<h4>Live Links :  <span >https://employee-managment-91f8f.web.app/<span></h4>
-
-
-<p>My Project Features</p>
+<h4>Live Links :  <span >https://www.mountennaedu.co.uk/<span></h4>
 
 
-* My project is employee management. And this project has three rules, Admin, HR, Employee.
-* Admin's rule is, he can make someone redundant and any employee as HR.
-* The rule of HR is that he can make payment only if he verifies an employee.
-* Only HR can view dashboard route private and employee list. No one else can see.
-* Again, only the admin can abandon someone, and can also fire, no one else can.
+<p>My Project Description</p>
+
+
+Developed a PHP-based student consultancy portal for Mountenna Education to streamline the UK university admission process. The system included multi-step application forms, document upload with auto-ZIP generation, email notifications, dynamic university listings, and testimonial/blog management via admin panel. Improved admin workflow, reduced onboarding time, and enhanced lead collection via integrated SEO strategies.
 
 
 
-<h1>Hotel Bookings </h1>
+<h1> Mountenna Group </h1>
 
-<h4>Live Links :  <span >https://hotel-booking-61cec.firebaseapp.com/<span></h4>
-
-
-<p>My Project Features</p>
-
-* First 6 rooms are shown dynamically in roms route .
-*  If someone clicks on any of the rooms. So he will show him the details of the room.
-* If a user booked a room then he can see his edited booking by going to My Booking Route.
-* If someone has booked a room then they can give a review, otherwise no one can give a review. But everyone can see the review.
-* My booking route is private. A user can view my booking route by logging in, otherwise they cannot view it. Again no one else can see a user's room booking. And if someone makes a room booking, then no one else can make a booking.
-* Again if a user cannot delete the booked room on the last day of booking. You can do it the day before.
+<h4>Live Links :  <span >https://mountennagroup.co.uk/<span></h4>
 
 
-<h1>Electronics </h1>
+<p>My Project Description</p>
 
-<h4>Live Links :  <span >https://assignment-10-6dc21.web.app/<span></h4>
-
-
-<p>My Project Features</p>
+Built a business agency website for Mountenna Group — an organization offering services in education, tech consulting, and staffing. The site was designed for credibility and clarity, with a modern layout, team showcase, service breakdown, blog CMS, and contact integrations. This project marked the beginning of my agency portfolio under Team Cipher.
 
 
-<!-- First Step -->
-* This project has 6 different brands. Clicking on each of them will take you to their brand.
+<h1> Stonebridge Legal – Immigration Law Firm Website </h1>
 
-<!-- First Second -->
-* Clicking on brand name button will show their details.
+<h4>Live Links :  <span >https://stonebridgelegal.co.uk/<span></h4>
 
-<!-- First Third -->
-* This project has private routes. Can't go there without login.
 
-<!-- First Fourth -->
-* Anyone can add products if they want. And can edit and delete.
+<p>My Project Description</p>
 
-<!-- First Five -->
-* If someone adds a product then it will be added to my cart. And you can visit there.
+
+Developed a responsive, SEO-optimized website for Stonebridge Legal Solution, a UK-based immigration law firm located in Stratford, London. This project was delivered in February 2024 under Setstech, an IT company focused on Laravel, PHP, and AI-powered solutions.
+
+Built entirely in PHP, the site includes service-specific landing pages, a legal blog section, and dynamic content blocks. Designed to reflect the firm’s professionalism and fixed-fee legal service model, the platform aims to increase online credibility and client trust.
 
