@@ -6,24 +6,21 @@
 
   <h1>👋 Hello, I'm Iqbal Hossen!</h1>
   
-  <p><b>Md. Iqbal Hossen | Full Stack Developer (MERN & Next.js) | 16+ UK Projects Delivered | TypeScript & Laravel Expert</b></p>
+  <p><b>Md. Iqbal Hossen | Full Stack Developer (MERN & Next.js) | 16+ UK Projects Delivered | TypeScript, Laravel & NestJS Expert</b></p>
 
   <p>
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   </p>
-</div>
 
-<br>
-
-## 📊 Current Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.com/api?username=Iqbalhossen07&show_icons=true&theme=prussian&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Iqbalhossen07&theme=prussian&hide_border=true" alt="GitHub Streak" />
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Iqbalhossen07&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </p>
 </div>
 
 <br>
