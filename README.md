@@ -1,7 +1,7 @@
 [![React Banner](https://i.ibb.co/x2sSrJ1/React-Banner.png)](https://your-link-here.com)
 
 <h2 align="center" >👋 Hello, I'm Iqbal Hossen!</h2>
-Md. Iqbal Hossen | Full Stack Developer (MERN & Next.js) | 16+ UK Projects Delivered | TypeScript & Laravel Expert 
+Md. Iqbal Hossen | Full Stack Developer (MERN & Next.js) | 16+ UK Projects Delivered | TypeScript & Laravel Expert. 
 
 <br>
 <h2>Current Stats</h2>
