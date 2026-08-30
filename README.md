@@ -6,7 +6,7 @@
 
   <h1>👋 Hello, I'm Iqbal Hossen!</h1>
   
-  <p><b>Md. Iqbal Hossen | Full Stack Developer (MERN & Next.js) | 16+ UK Projects Delivered | TypeScript, Laravel & NestJS Expert</b></p>
+  <p><b>Md. Iqbal Hossen | Full-Stack Developer | 20+ UK Projects Delivered | Expert in Next.js, NestJS, Laravel & AI Chatbots </b></p>
 
   <p>
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
