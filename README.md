@@ -27,21 +27,30 @@
 
 ## 💻 Featured Projects
 
-### 🎓 [Mountenna Education](https://www.mountennaedu.co.uk/)
-> **PHP-based Student Consultancy Portal**
+### 🧹 [Zerago Cleaning Services](https://iqbalhossen.xyz/project/zerago-cleaning)
+> **B2B/B2C Service Platform with AI Assistant**
 
-Developed a PHP-based student consultancy portal for Mountenna Education to streamline the UK university admission process. The system included multi-step application forms, document upload with auto-ZIP generation, email notifications, dynamic university listings, and testimonial/blog management via an admin panel. Improved admin workflow, reduced onboarding time, and enhanced lead collection via integrated SEO strategies.
-
----
-
-### 🏢 [Mountenna Group](https://mountennagroup.co.uk/)
-> **Business Agency Website**
-
-Built a business agency website for Mountenna Group — an organization offering services in education, tech consulting, and staffing. The site was designed for credibility and clarity, with a modern layout, team showcase, service breakdown, blog CMS, and contact integrations. This project marked the beginning of my agency portfolio under Team Cipher.
+Developed a comprehensive cleaning service platform tailored for both B2B and B2C clients. Integrated an AI-powered assistant to handle initial customer inquiries and booking estimations, significantly improving customer response times and conversion rates.
 
 ---
 
-### ⚖️ [Stonebridge Legal](https://stonebridgelegal.co.uk/)
-> **Immigration Law Firm Website**
+### 🍽️ [SoBha Restaurant](https://iqbalhossen.xyz/project/sobha-restaurant)
+> **Turkish Cuisine Brand & Booking Website**
 
-Developed a responsive, SEO-optimized website for Stonebridge Legal Solution, a UK-based immigration law firm located in Stratford, London. This project was delivered in February 2024 under Setstech, an IT company focused on Laravel, PHP, and AI-powered solutions. Built entirely in PHP, the site includes service-specific landing pages, a legal blog section, and dynamic content blocks. Designed to reflect the firm’s professionalism and fixed-fee legal service model, the platform aims to increase online credibility and client trust.
+Built a high-performance, visually appealing web application for a premium Turkish restaurant. Features include an interactive digital menu, a dynamic table reservation system, and a custom CMS for easy content and pricing updates.
+
+---
+
+### 🏗️ [MBS Builders Ltd](https://iqbalhossen.xyz/project/mbs-builders)
+> **Construction Portfolio & Quote Management System**
+
+Designed and developed a professional digital presence for a UK-based construction firm. The platform showcases a dynamic project portfolio and includes a robust, secure quote management system for clients to easily request and track project estimations.
+
+---
+
+### 🏥 [Community Careline Services](https://iqbalhossen.xyz/project/community-careline)
+> **Care Assessment & Recruitment Platform**
+
+Engineered a secure recruitment and care assessment portal tailored for the healthcare sector. The system streamlines the onboarding process for care professionals, handles document verification, and manages sensitive user data with advanced security measures.
+
+---
